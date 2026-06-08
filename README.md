@@ -9,7 +9,7 @@ Here is the quick-access dashboard for my stock analyzer tools, accessible from 
 * 🧮 [Live Stock Evaluator (Backup/Old)](https://pwilly5876-lgtm.github.io/Stock-evaluator/)
 
 ### Quick Ticker Links
-* [Apple (PLTR) Analyzer](https://pwilly5876-lgtm.github.io/Individual-Stock-Analyzer/?ticker=PLTR)
+* [Palantir (PLTR) Analyzer](https://pwilly5876-lgtm.github.io/Individual-Stock-Analyzer/?ticker=PLTR)
 * [Amazon (AMZN) Analyzer](https://pwilly5876-lgtm.github.io/Individual-Stock-Analyzer/?ticker=AMZN)
 * [Google (GOOGL) Analyzer](https://pwilly5876-lgtm.github.io/Individual-Stock-Analyzer/?ticker=GOOGL)
 
